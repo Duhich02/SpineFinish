@@ -104,7 +104,7 @@
 //         console.error('Unable to connect to the database:', error);
 //     }
 // })()
-
+///hk
 //        const user = await  User.create({
 //             course_name: 'web dev',
 //             instructor: 'Ivan',
